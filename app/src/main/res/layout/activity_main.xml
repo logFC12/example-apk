@@ -8,9 +8,9 @@
         android:id="@+id/hackText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="[ SYSTEM BREACHED ]\nDownloading Private Data...\nTarget: Poco M3\nStatus: 67%..."
+        android:text="[ FULL SYSTEM LOCKDOWN ]\n\nErasing Storage...\nInjecting Malware...\n\nPOCO M3 EXPLOITED 100%"
         android:textColor="#00FF00"
-        android:textSize="20sp"
+        android:textSize="22sp"
         android:fontFamily="monospace" />
 
     <Button
