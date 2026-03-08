@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:text="STOP HACKING & EXIT"
+        android:text="STOP HACKING AND EXIT"
         android:backgroundTint="#FF0000"
         android:textColor="#FFFFFF" />
 </RelativeLayout>
